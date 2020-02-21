@@ -1,0 +1,5 @@
+---
+tap_and_hold: # event name
+  1: # fingers count
+    command: 'xdotool click 3'
+    acceptance_delay: '0.5' # seconds
